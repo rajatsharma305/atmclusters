@@ -1,0 +1,19 @@
+{
+   "name":"geonewsjqurey",
+   "version":"0.0.0",
+   "homepage":"http://rajatsharma.rocks",
+   "authors":[
+      "Rajat Sharma"
+   ],
+   "description":"News on Maps",
+   "main":"assets/js/app.js",
+   "moduleType":[
+      "globals"
+   ],
+   "keywords":[
+      "leaflet",
+      "twitter",
+      "bootstrap"
+   ],
+   "license":"MIT"
+}

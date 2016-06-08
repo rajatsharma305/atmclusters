@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "HEAD": "BJP, Sena have chance to raise their RS tally from M'rashtra",
+        "SHORT": "Ruling allies BJP and Shiv Sena in Maharashtra have a chance to wrest one seat each currently held by Opposition Congress and NCP in the next month's biennial elections to six Rajya Sabha seats in the state given their present strength in the Assembly.",
+        "URL": "http://http://timesofindia.indiatimes.com/city/mumbai/BJP-Sena-have-chance-to-raise-their-RS-tally-from-Mrashtra/articleshow/52244629.cms/",
+        "DATETIME": "May 12, 2016 10.42 PM IST",
+        "CITY": "Mumbai",
+        "MEDIA": "PTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.877722,
+          19.086853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "HEAD": "Kerala govt not ‘moved away’ from its responsibility in bringing back Keralites: CM Chandy",
+        "SHORT": "Chief Minister Oommen Chandy Thursday said his government had not moved away from its responsibility to bring back Keralites, a day after Prime Minister Narendra Modi cited the evacuation of 29 Indians from Libya including six families from Kerala by his government to reach out to people in the poll-bound state. Chandy claimed when he along with Non-Resident Kerala Affairs Minister K C Joseph met Central ministers seeking evacuation of Keralites stranded in Libya, “Government of India asked why didn’t they return when they were given an opportunity earlier",
+        "URL": "http://indianexpress.com/article/india/india-news-india/kerala-govt-not-moved-away-from-its-responsibility-in-bringing-back-keralites-in-libya-chandy-2797548/",
+        "DATETIME": "May 12, 2016, 22:10",
+        "CITY": "Kochi",
+        "MEDIA": "PTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.273042,
+          9.929789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "HEAD": "Ten of the world to 20 polluted cities are in India",
+        "SHORT": "Delhi’s air quality has improved but it continues to be among the top 15 most polluted cities in the world.The new Global Urban Ambient Air Pollution Database of the World Health Organization (WHO) released today put Delhi in the 11th position, much better than in 2015 when the national capital topped the chart. The most polluted city this year is Zabol in Iran.",
+        "URL": "http://www.newindianexpress.com/cities/delhi/Ten-of-the-world-to-20-polluted-cities-are-in-India/2016/05/12/article3429456.ece",
+        "DATETIME": "12th May 2016 09:21 PM",
+        "CITY": "New Delhi",
+        "MEDIA": "Express News Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.209021,
+          28.613939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "HEAD": "RBI plans to tighten rules for large corporate borrowers",
+        "SHORT": "Concerned over 'very high' exposure of banks to some large corporates, RBI today proposed tighter norms to mitigate the risk posed to the banking system on account of large aggregate lending to a single borrower.The framework has been proposed to be introduced from 2017-18 onwards and the banking system should ordinarily keep its future incremental exposure to specified borrowers within the normally-permitted lending limit (NPLL), RBI said.",
+        "URL": "http://economictimes.indiatimes.com/news/economy/policy/rbi-plans-to-tighten-rules-for-large-corporate-borrowers/articleshow/52243647.cms",
+        "DATETIME": "12 May, 2016, 09.38PM IST",
+        "CITY": "Mumbai",
+        "MEDIA": "PTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.877656,
+          19.075984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "HEAD": "Dilma Rousseff’s impeachment, explained in 3 numbers",
+        "SHORT": "Late on Wednesday, Brazil's Senate voted to put President Dilma Rousseff on trial for impeachment. This means she's out of a job for up to six months: Brazil's constitution requires the president to step down while on trial for impeachment in the senate.Vice President Michel Temer will take over — perhaps permanently, as it seems unlikely that Rousseff will be able to come back from the suspension.Nominally, this impeachment proceeding is about financial shenaniganry during Rousseff's 2014 reelection bid. Rousseff is accused of fudging government accounting to hide the scope of the government's deficit problem during the 2014 campaign.But that's not the real reason she's on the verge of impeachment. Rather, Rousseff's political opponents are using the charges as a pretext: She's extremely unpopular, for reasons totally unrelated to the charges, and her enemies are taking advantage to push her out.This isn't so much about corruption as it is about politics — and these three numbers explain why.",
+        "URL": "http://www.vox.com/2016/5/12/11658112/brazil-president-impeached",
+        "DATETIME": "May 12, 2016, 8:50 a.m. ET",
+        "CITY": "Brasilia",
+        "MEDIA": "Zack Beauchamp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.925280,
+          -14.235004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "HEAD": "Setback for David Cameron's anti-corruption plans as British Virgin Islands rebuff his calls to publish details of who owns offshore firms - latest",
+        "SHORT": "The British Virgin Islands has rebuffed calls by David Cameron for British overseas territories and crown dependencies to publish details of who owns offshore firms.Mr Cameron’s anti-corruption summit risked ridicule this morning after it emerged that Panama, and UK overseas territories like the British Virgin Islands (BVI), which have been at the centre of tax avoidance controversies, had also not been invited.Mr Cameron opened his Anti-Corruption summit in London with a call for the British Crown dependencies to move to a 'gold standard' of publishing in full lists of beneficial ownership of companies.",
+        "URL": "http://www.telegraph.co.uk/news/2016/05/12/david-camerons-anti-corruption-summit-risks-ridicule-after-it-em/",
+        "DATETIME": "12 MAY 2016 • 7:25PM",
+        "CITY": "London",
+        "MEDIA": "Laura Hughes, political correspondent & Christopher Hope, chief political correspondent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.127758,
+          51.507351
+        ]
+      }
+    }
+  ]
+}
